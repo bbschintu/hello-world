@@ -2,4 +2,4 @@
 Hello Humans!!
 
 This is Balabanta. I work at TCS and Staying in Hyderabad.
-My hobby is playing comuter cricket games and reading articles.
+My hobby is to play computer cricket games and read articles.
